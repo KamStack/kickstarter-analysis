@@ -22,4 +22,4 @@ The data shows severe goal failure for ranges greater than 45000. Goals of 1000 
 A possible limitation of this dataset would be the lack of more data. Having at least a 3-year dataset would prove valuable to back-test of variance in seasonality.
 One potential limitation is the lack visibility to the population per capita and the demographic per location. Having access to the demographic per location vs theater play type could provide solid insight into the probability of success vs failure. Having access to the population per capita of each location provided in the Kickstarter dataset could also increase the probability of success.
 - What are some other possible tables and/or graphs that we could create?
-A location filtered graph of Outcome vs Launch Date could show Louise the location of the highest probability success.
+ - A location filtered graph of Outcome vs Launch Date could show Louise the location of the highest probability success.
