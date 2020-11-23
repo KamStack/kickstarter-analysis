@@ -15,11 +15,11 @@ No challenges or difficulties encountered, however there could be unforeseen var
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-The Theater_Outcomes_vs_launch data showed the launch dates with the higher probability of success were during the spring and summer months with May and June being the highest two months. Launching a play during the end of the calendar year decreases the rate of success.
+  - The Theater_Outcomes_vs_launch data showed the launch dates with the higher probability of success were during the spring and summer months with May and June being the highest     two months. Launching a play during the end of the calendar year decreases the rate of success.
 - What can you conclude about the Outcomes based on Goals?
-The data shows severe goal failure for ranges greater than 45000. Goals of 1000 and less saw the highest number of success.
+  - The data shows severe goal failure for ranges greater than 45000. Goals of 1000 and less saw the highest number of success.
 - What are some limitations of this dataset?
-A possible limitation of this dataset would be the lack of more data. Having at least a 3-year dataset would prove valuable to back-test of variance in seasonality.
-One potential limitation is the lack visibility to the population per capita and the demographic per location. Having access to the demographic per location vs theater play type could provide solid insight into the probability of success vs failure. Having access to the population per capita of each location provided in the Kickstarter dataset could also increase the probability of success.
+  - A possible limitation of this dataset would be the lack of more data. Having at least a 3-year dataset would prove valuable to back-test of variance in seasonality.
+    One potential limitation is the lack visibility to the population per capita and the demographic per location. Having access to the demographic per location vs theater play       type could provide solid insight into the probability of success vs failure. Having access to the population per capita of each location provided in the Kickstarter dataset       could also increase the probability of success.
 - What are some other possible tables and/or graphs that we could create?
   - A location filtered graph of Outcome vs Launch Date could show Louise the location of the highest probability success.
